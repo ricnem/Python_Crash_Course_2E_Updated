@@ -1,0 +1,5 @@
+I have learned how to write f-strings in python to make my code more concise
+I have learned about list and dictionaries
+I have learned how to use math operators in python
+I have learned while and for loops
+
