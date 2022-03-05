@@ -12,6 +12,5 @@ for line in lines:
 
 print(pi_string)
 
-print("gagop")
 
 print(len(pi_string))
