@@ -14,4 +14,3 @@ def word_count(filename, word):
 filename = 'self-help.txt'
 
 word_count(filename, 'the')
-
