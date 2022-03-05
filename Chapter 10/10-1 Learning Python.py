@@ -11,7 +11,7 @@ with open(filename) as object:
     for line in object:
         print(line.rstrip())
 print("----------------------------")
-#making a list of liens from a file.
+#making a list of lines from a file.
 with open(filename) as object:
     lists = object.readlines()
 
