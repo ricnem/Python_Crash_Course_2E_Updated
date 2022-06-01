@@ -1,5 +1,6 @@
 import pygame
 
+
 class Character:
     """A class to make a character"""
 
