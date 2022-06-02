@@ -117,6 +117,12 @@ class AlienInvasion:
         alien.rect.y = alien.rect.height + 2 * alien.rect.height * row_number
         self.aliens.add(alien)
 
+    def _create_stars(self, stars_number, row_number):
+        """Creates a star grid"""
+        star = Star(self)
+        star_width, star_height = alien.rect.size
+        star.x = star_width + stars_number
+
 
     def _update_screen(self):
         """Update images on the screen, and flip on the new screen."""
