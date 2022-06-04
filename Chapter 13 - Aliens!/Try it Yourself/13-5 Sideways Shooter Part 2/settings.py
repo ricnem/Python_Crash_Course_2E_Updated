@@ -16,7 +16,7 @@ class Settings:
         self.bullet_width = 15
         self.bullet_height = 3
         self.bullet_color = (60, 60, 60)
-        self.bullets_allowed = 3
+        self.bullets_allowed = 4
 
         # Alien settings.
         #  alien_frequency controls how often a new alien appear.s
